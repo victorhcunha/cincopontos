@@ -1,6 +1,8 @@
 body {
   font-family: serif;
   background-color: antiquewhite;
+  margin-right: 20%;
+  margin-left: 20%;
 }
 
 h1 {
@@ -15,6 +17,11 @@ img {
   margin-right: auto;
 }
 
+p {
+  text-indent: 5%;
+}
+
 footer {
+  padding-top: 20px;
   text-align: center;
 }
